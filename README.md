@@ -1,16 +1,16 @@
-## :star: API
+## :computer: API
 _Application Programming Interface_  
 Conjunto de rotinas e padrões estabelecidos por uma aplicação para que outras aplicações possam usar as funcionalidades da mesma.
 - Responsável por estabelecer conexão entre serviços.
 - Intermediador para trocar informações.
 
-## :star: REST
+## :calling: REST
 _Representational State Transfer_  
 Será feita uma transferencia de dados de uma maneira representativa ou didática.   
 - A transferencia de dados geralmente é feita usando o protocolo HTTP.   
 - O Rest delimita obrigações nessas transferencias de dados.
 
-## :star: RESTful
+## :bulb: RESTful
 ### Necessidades para ser RESTful
 - _Client-Server_: Separação do cliente e do armazenamento de dados (servidor).
 
