@@ -36,46 +36,46 @@ Será feita uma transferencia de dados de uma maneira representativa ou didátic
 - [ ] [Components e Service no Spring](#components-e-service-no-spring)
 - [ ] [Debugging e Leitura de Código](#debugging-e-leitura-de-código)
 
-### :grey_exclamation: RESTful APIs
+### :grey_exclamation: <!-- :white_check_mark: --> RESTful APIs
 - Conceitos de arquitetura REST
 - Implementação de endpoints RESTful no Spring Boot
 - Boas práticas para criar APIs REST status codes, métodos HTTP
 
-### :grey_exclamation: Beans no Spring
+### :grey_exclamation: <!-- :white_check_mark: --> Beans no Spring
 - O que são Beans e como são gerenciados pelo Spring.
 - Ciclo de vida dos Beans.
 - Escopos de Beans (Singleton, Prototype, etc.)
 
-### :grey_exclamation: Spring Boot Peripherals
+### :grey_exclamation: <!-- :white_check_mark: --> Spring Boot Peripherals
 - Introdução ao Spring Boot e como ele facilita a configuração.
 - Utilização de Starters no Spring Boot.
 - Profiles e propriedades no Spring Boot (application.properties, YAML).
 
-### :grey_exclamation: Spring Data
+### :grey_exclamation: <!-- :white_check_mark: --> Spring Data
 - Integração com bancos de dados usando Spring Data JPA.
 - Criação de repositórios (Repositories) e consultas personalizadas.
 - Uso de Query Methods e @Query.
 
-### :grey_exclamation: Como Dockerizar Aplicações Spring
+### :grey_exclamation: <!-- :white_check_mark: --> Como Dockerizar Aplicações Spring
 - Criando um Dockerfile para um projeto Spring Boot.
 - Configuração de volumes, networks e environment variables no Docker.
 - Execução de contêineres e orquestração com Docker Compose.
 
-### :grey_exclamation: Test Containers
+### :grey_exclamation: <!-- :white_check_mark: --> Test Containers
 - O que são Test Containers.
 - Como usar Test Containers para testes de integração em Spring.
 - Exemplos práticos com banco de dados e outros serviços.
 
-### :grey_exclamation: REST e Service
+### :grey_exclamation: <!-- :white_check_mark: --> REST e Service
 - Diferenças entre camadas REST (Controller) e Service no Spring.
 - Boas práticas na separação de responsabilidades.
 
-### :grey_exclamation: Components e Service no Spring
+### :grey_exclamation: <!-- :white_check_mark: --> Components e Service no Spring
 - Diferença entre @Component, @Service e @Repository.
 - Como e quando usar cada anotação.
 - Injeção de dependências e autowiring.
 
-### :grey_exclamation: Debugging e Leitura de Código
+### :grey_exclamation: <!-- :white_check_mark: --> Debugging e Leitura de Código
 - Como usar o depurador (debugger) em IDEs como IntelliJ ou Eclipse.
 - Ferramentas de logging e tracing.
 - Leitura de logs e erros comuns.
