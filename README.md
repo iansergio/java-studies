@@ -26,15 +26,16 @@ Será feita uma transferencia de dados de uma maneira representativa ou didátic
 # Roteiro
 [Apostila Java](https://www.alura.com.br/apostila-java-orientacao-objetos)
 
-- [ ] [RESTful APIs](#restful-apis)  
-- [ ] [Beans no Spring](#beans-no-spring)
-- [ ] [Spring Boot Peripherals](#spring-boot-peripherals)
-- [ ] [Spring Data](#spring-data)
-- [ ] [Como Dockerizar Aplicações Spring](#como-dockerizar-aplicações-spring)
-- [ ] [Test Containers](#test-containers)
-- [ ] [REST e Service](#rest-e-service)
-- [ ] [Components e Service no Spring](#components-e-service-no-spring)
-- [ ] [Debugging e Leitura de Código](#debugging-e-leitura-de-código)
+<!-- Alterar os links após atualizar a checkbox -->
+- [ ] [RESTful APIs](#grey_exclamation--restful-apis)  
+- [ ] [Beans no Spring](#grey_exclamation--beans-no-spring)
+- [ ] [Spring Boot Peripherals](#grey_exclamation--spring-boot-peripherals)
+- [ ] [Spring Data](#grey_exclamation--spring-data)
+- [ ] [Como Dockerizar Aplicações Spring](#grey_exclamation--como-dockerizar-aplicações-spring)
+- [ ] [Test Containers](#grey_exclamation--test-containers)
+- [ ] [REST e Service](#grey_exclamation--rest-e-service)
+- [ ] [Components e Service no Spring](#grey_exclamation--components-e-service-no-spring)
+- [ ] [Debugging e Leitura de Código](#grey_exclamation--debugging-e-leitura-de-código)
 
 ### :grey_exclamation: <!-- :white_check_mark: --> RESTful APIs
 - Conceitos de arquitetura REST
