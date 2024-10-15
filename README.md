@@ -11,14 +11,23 @@ Será feita uma transferencia de dados de uma maneira, simbólica, figurativa, r
 A transferencia de dados geralmente é feita usando o protocolo HTTP   
 O Rest delimita obrigações nessas transferencias de dados
 
-## RESTFUL
-### Seis necessidades para ser RESTFUL
+## RESTful
+### Seis necessidades para ser RESTful
 - _Client-Server_: Separação do cliente e do armazenamento de dados (servidor)
 - _Stateless_: Cada requisição que o cliente faz para o servidor deverá ter as informações necessárias para o servidor entender enviar uma _RESPONSE_ (resposta) para a _REQUEST_ (requisição)
 
-
 # Roteiro
 [Apostila Java](https://www.alura.com.br/apostila-java-orientacao-objetos)
+
+[ ] RESTful APIs  
+[ ] Beans no Spring  
+[ ] Spring Boot Peripherals  
+[ ] Spring Data  
+[ ] Como Dockerizar Aplicações Spring  
+[ ] Test Containers  
+[ ] REST e Service  
+[ ] Components e Service no Spring  
+[ ] Debugging e Leitura de Código  
 
 ### RESTful APIs
 - Conceitos de arquitetura REST
