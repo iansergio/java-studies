@@ -27,7 +27,7 @@ Será feita uma transferencia de dados de uma maneira representativa ou didátic
 [Apostila Java](https://www.alura.com.br/apostila-java-orientacao-objetos)
 
 <!-- Alterar os links após atualizar a checkbox -->
-- [ ] [RESTful APIs](#white_check_mark--restful-apis)  
+- [x] [RESTful APIs](#white_check_mark--restful-apis)  
 - [ ] [Beans no Spring](#grey_exclamation--beans-no-spring)
 - [ ] [Spring Boot Peripherals](#grey_exclamation--spring-boot-peripherals)
 - [ ] [Spring Data](#grey_exclamation--spring-data)
