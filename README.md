@@ -27,7 +27,7 @@ Será feita uma transferencia de dados de uma maneira representativa ou didátic
 [Apostila Java](https://www.alura.com.br/apostila-java-orientacao-objetos)
 
 <!-- Alterar os links após atualizar a checkbox -->
-- [ ] [RESTful APIs](#grey_exclamation--restful-apis)  
+- [ ] [RESTful APIs](#white_check_mark--restful-apis)  
 - [ ] [Beans no Spring](#grey_exclamation--beans-no-spring)
 - [ ] [Spring Boot Peripherals](#grey_exclamation--spring-boot-peripherals)
 - [ ] [Spring Data](#grey_exclamation--spring-data)
@@ -37,7 +37,7 @@ Será feita uma transferencia de dados de uma maneira representativa ou didátic
 - [ ] [Components e Service no Spring](#grey_exclamation--components-e-service-no-spring)
 - [ ] [Debugging e Leitura de Código](#grey_exclamation--debugging-e-leitura-de-código)
 
-### :grey_exclamation: <!-- :white_check_mark: --> RESTful APIs
+### :white_check_mark: <!-- :grey_exclamation: --> RESTful APIs
 - Conceitos de arquitetura REST
 - Implementação de endpoints RESTful no Spring Boot
 - Boas práticas para criar APIs REST status codes, métodos HTTP
