@@ -24,7 +24,7 @@ Será feita uma transferencia de dados de uma maneira representativa ou didátic
 - _Code on Demand_: Dá a possibilidade da aplicação pegar códigos, como o JavaScript por exemplo, e executar no cliente. 
 
 # Roteiro
-[Apostila Java](https://www.alura.com.br/apostila-java-orientacao-objetos)
+<!-- [Apostila Java](https://www.alura.com.br/apostila-java-orientacao-objetos) -->
 
 <!-- Alterar os links após atualizar a checkbox -->
 - [x] [RESTful APIs](#white_check_mark--restful-apis)  
