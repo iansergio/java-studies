@@ -1,41 +1,16 @@
-## :computer: API
-_Application Programming Interface_  
-Conjunto de rotinas e padrões estabelecidos por uma aplicação para que outras aplicações possam usar as funcionalidades da mesma.
-- Responsável por estabelecer conexão entre serviços.
-- Intermediador para trocar informações.
-
-## :calling: REST
-_Representational State Transfer_  
-Será feita uma transferencia de dados de uma maneira representativa ou didática.   
-- A transferencia de dados geralmente é feita usando o protocolo HTTP.   
-- O Rest delimita obrigações nessas transferencias de dados.
-
-## :bulb: RESTful
-### Necessidades para ser RESTful
-- _Client-Server_: Separação do cliente e do armazenamento de dados (servidor).
-
-- _Stateless_: Cada requisição que o cliente faz para o servidor deverá conter todas as informações necessárias para o servidor entender e enviar uma _RESPONSE_ (resposta) para a _REQUEST_ (requisição).
-
-- _Cacheable_: As respostas de uma requisição deverão ser explícitas ao dizer se aquela requisição pode ou não ser cacheada pelo cliente.
-
-- _Layered System_: O cliente acessa um endpoint sem precisar saber da complexidade, quais passos estão sendo percorridos para o servidor responder a requisição, ou quais outras camadas o servidor estará lidando para que que a requisição seja respondida.
-
-#### Opcional
-- _Code on Demand_: Dá a possibilidade da aplicação pegar códigos, como o JavaScript por exemplo, e executar no cliente. 
-
-# Roteiro
+# Sumário
 <!-- [Apostila Java](https://www.alura.com.br/apostila-java-orientacao-objetos) -->
 
 <!-- Alterar os links após atualizar a checkbox -->
-- [x] [RESTful APIs](#white_check_mark--restful-apis)  
-- [ ] [Beans no Spring](#grey_exclamation--beans-no-spring)
-- [ ] [Spring Boot Peripherals](#grey_exclamation--spring-boot-peripherals)
-- [ ] [Spring Data](#grey_exclamation--spring-data)
-- [ ] [Como Dockerizar Aplicações Spring](#grey_exclamation--como-dockerizar-aplicações-spring)
-- [ ] [Test Containers](#grey_exclamation--test-containers)
-- [ ] [REST e Service](#grey_exclamation--rest-e-service)
-- [ ] [Components e Service no Spring](#grey_exclamation--components-e-service-no-spring)
-- [ ] [Debugging e Leitura de Código](#grey_exclamation--debugging-e-leitura-de-código)
+- [x] [RESTful APIs](#computer-api)  
+- [ ] [Beans no Spring](#)
+- [ ] [Spring Boot Peripherals](#)
+- [ ] [Spring Data](#)
+- [ ] [Como Dockerizar Aplicações Spring](#)
+- [ ] [Test Containers](#)
+- [ ] [REST e Service](#)
+- [ ] [Components e Service no Spring](#)
+- [ ] [Debugging e Leitura de Código](#)
 
 ### :white_check_mark: <!-- :grey_exclamation: --> RESTful APIs
 - Conceitos de arquitetura REST
@@ -80,3 +55,28 @@ Será feita uma transferencia de dados de uma maneira representativa ou didátic
 - Como usar o depurador (debugger) em IDEs como IntelliJ ou Eclipse.
 - Ferramentas de logging e tracing.
 - Leitura de logs e erros comuns.
+
+## :computer: API
+_Application Programming Interface_  
+Conjunto de rotinas e padrões estabelecidos por uma aplicação para que outras aplicações possam usar as funcionalidades da mesma.
+- Responsável por estabelecer conexão entre serviços.
+- Intermediador para trocar informações.
+
+## :calling: REST
+_Representational State Transfer_  
+Será feita uma transferencia de dados de uma maneira representativa ou didática.   
+- A transferencia de dados geralmente é feita usando o protocolo HTTP.   
+- O Rest delimita obrigações nessas transferencias de dados.
+
+## :bulb: RESTful
+### Necessidades para ser RESTful
+- _Client-Server_: Separação do cliente e do armazenamento de dados (servidor).
+
+- _Stateless_: Cada requisição que o cliente faz para o servidor deverá conter todas as informações necessárias para o servidor entender e enviar uma _RESPONSE_ (resposta) para a _REQUEST_ (requisição).
+
+- _Cacheable_: As respostas de uma requisição deverão ser explícitas ao dizer se aquela requisição pode ou não ser cacheada pelo cliente.
+
+- _Layered System_: O cliente acessa um endpoint sem precisar saber da complexidade, quais passos estão sendo percorridos para o servidor responder a requisição, ou quais outras camadas o servidor estará lidando para que que a requisição seja respondida.
+
+#### Opcional
+- _Code on Demand_: Dá a possibilidade da aplicação pegar códigos, como o JavaScript por exemplo, e executar no cliente. 
